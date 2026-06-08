@@ -1,95 +1,78 @@
-# Hi 👋, I'm Harshith M
+# <h1 align="center">Hi 👋, I'm Harshith M</h1>
 
-### Electronics & Communication Engineer | Embedded Systems | IoT | VLSI Enthusiast
+<h3 align="center">Electronics & Communication Engineer | IoT Developer | Embedded Systems Enthusiast</h3>
 
-📍 Hanur, Karnataka, India  
-📧 harshithmnaidu95@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/harshith-murali
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;IoT+Developer;Embedded+Systems+Enthusiast;VLSI+Learner;Robotics+Developer&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Electronics and Communication Engineering graduate with interests in:
+🎓 BE in Electronics & Communication Engineering
 
-- Embedded Systems
-- Internet of Things (IoT)
-- VLSI Design
-- Robotics and Automation
-- Circuit Design and Analysis
-- Digital Signal Processing
-- Microcontroller Programming
+🔭 Interested in Embedded Systems, IoT, Robotics & VLSI
 
-I enjoy building innovative solutions using Arduino, Raspberry Pi, sensors, and communication technologies.
+🌱 Currently learning Advanced Embedded Systems and Automation
 
----
+💡 Passionate about building innovative hardware solutions
 
-## 💼 Experience
+📫 Email: **harshithmnaidu95@gmail.com**
 
-### Electronics, Embedded Systems & IoT Developer Intern
-**AiROBOSOFT Products And Services**
-
-- Developed IoT and Embedded System applications using Raspberry Pi.
-- Worked on sensor interfacing and hardware integration.
-- Performed testing, monitoring, and implementation of real-time systems.
-- Contributed to robotics and automation projects.
+🌐 LinkedIn: www.linkedin.com/in/harshith-murali
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 ### Programming
-- C++
-- Python (Basics)
-- Assembly Language
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### Embedded & IoT
-- Arduino
-- Raspberry Pi
-- Sensor Interfacing
-- Networking & IoT
-
-### Electronics
-- Circuit Design and Analysis
-- VLSI Design
-- Control Systems
-- Digital Signal Processing
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge)
 
 ### Tools
-- MATLAB
-- Microsoft Office
-- Cadence Tools (Basic)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-red?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ## 📂 Projects
 
-### 📸 Image Compression Application Using MATLAB
-Developed an image compression system using MATLAB image processing techniques to reduce image size while maintaining quality.
+### 🏠 Smart Home Automation Using Arduino
+Control home appliances using Arduino and sensors.
 
-### 🏠 Smart Home Automation Using Arduino Uno
-Designed a smart automation system for controlling household appliances using Arduino.
+### 🤖 Light Following Robot
+Robot that detects and follows a light source using LDR sensors.
 
-### 🤖 Light Following Robot Using Arduino Uno
-Built an autonomous robot capable of detecting and following a light source using LDR sensors.
+### 📦 Remote Operated Pick & Place Robot
+Wireless robotic arm for object handling applications.
 
-### 📦 Remote Operated Pick and Place Robot
-Developed a wireless robotic arm system for object handling and placement applications.
+### 🖼️ Image Compression Using MATLAB
+Implemented image compression techniques using MATLAB.
 
-### 🛡️ Advanced Military Spying and Bomb Disposal Robot
-Implemented a Raspberry Pi-based robotic system with sensors, wireless communication, and remote monitoring capabilities.
-
----
-
-## 📜 Certifications
-
-- Infosys Springboard – Basics of Python
-- Mobile Application Development
-- VLSI Design Using Cadence Tool
+### 🛡️ Advanced Military Spying & Bomb Disposal Robot
+Built using Raspberry Pi, wireless camera, sensors and remote monitoring.
 
 ---
 
-## 🌐 Languages
+## 🏆 Certifications
+
+✅ Infosys Springboard – Python Basics
+
+✅ Mobile Application Development
+
+✅ VLSI Design Using Cadence Tool
+
+---
+
+## 🌍 Languages
 
 - English
 - Kannada
@@ -99,16 +82,20 @@ Implemented a Raspberry Pi-based robotic system with sensors, wireless communica
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith83&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith83&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith83&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith83&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/harshith-murali)
+<a href="https://www.linkedin.com/in/harshith-murali">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+⭐ Thanks for visiting my profile!
