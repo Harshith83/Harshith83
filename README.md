@@ -101,9 +101,9 @@ Implemented a Raspberry Pi-based robotic system with sensors, wireless communica
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Harshith83&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith83&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Harshith83&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith83&layout=compact)
 
 ---
 
