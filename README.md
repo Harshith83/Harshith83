@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Harshith M 👋</h1>
 
 <p align="center">
-  <b>Electronics & Communication Engineer 
-    · VLSI · Embedded Systems · IoT</b><br>
+  <b>Electronics & Communication Engineer</b>b><br> 
+  <b>· VLSI · Embedded Systems · IoT</b><br>
   Coorg Institute of Technology, Ponnampet · Karnataka, India
 </p>
 
