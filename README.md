@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-> BE graduate in Electronics and Communication Engineering with specialization in **VLSI**, **Embedded Systems**, and **IoT**. Proficient in **Arduino**, **Raspberry Pi**, embedded protocols (**I2C · SPI · UART**), and **Cadence tools**. Eager to contribute technical expertise to a forward-thinking organization focused on product development or system design.
+BE graduate in Electronics and Communication Engineering with specialization in **VLSI**, **Embedded Systems**, and **IoT**. Proficient in **Arduino**, **Raspberry Pi**, embedded protocols (**I2C · SPI · UART**), and **Cadence tools**. Eager to contribute technical expertise to a forward-thinking organization focused on product development or system design.
 
 - 🎓 **BE in Electronics & Communication Engineering** — Coorg Institute of Technology, Ponnampet (CGPA: **8.2**)
 - 🛠️ Passionate about **hardware-software integration**, robotics, and real-time embedded solutions
