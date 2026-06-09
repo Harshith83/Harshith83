@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harshith M 👋</h1>
 
 <p align="center">
-  <h1 align="center">Electronics & Communication Engineer</h1><br> 
+  <h1 align="center">Electronics & Communication Engineer</h1>
   <b>VLSI Design | Embedded Systems | IoT | Arduino | Raspberry Pi | C++ | Assembly Language | MATLAB | Cadence Tools</b><br>
   Coorg Institute of Technology, Ponnampet | Karnataka, India
 </p>
