@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Electronics & Communication Engineer</b><br> 
-  <b>· VLSI · Embedded Systems · IoT</b><br>
-  Coorg Institute of Technology, Ponnampet · Karnataka, India
+  <b> VLSI | Embedded Systems | IoT</b><br>
+  Coorg Institute of Technology, Ponnampet | Karnataka, India
 </p>
 
 <p align="center">
