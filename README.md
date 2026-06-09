@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electronics & Communication Engineer</b><br> 
-  <b> VLSI | Embedded Systems | IoT</b><br>
+  <b>VLSI Design | Embedded Systems| IoT | Arduino | Raspberry Pi | C++ | Assembly Language| MATLAB | Cadence Tools</b><br>
   Coorg Institute of Technology, Ponnampet | Karnataka, India
 </p>
 
