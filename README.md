@@ -18,7 +18,7 @@
 
 > To begin my career as an Electronics and Communication Engineer in a growth-oriented organization where I can apply my knowledge of **VLSI design**, **embedded systems**, and **communication technologies** — while continuously learning and contributing to innovative solutions.
 
-- 🎓 **BE in Electronics & Communication Engineering** — Coorg Institute of Technology, Ponnampet (CGPA: **7.9**)
+- 🎓 **BE in Electronics & Communication Engineering** — Coorg Institute of Technology, Ponnampet (CGPA: **8.2**)
 - 🛠️ Passionate about **hardware-software integration**, robotics, and real-time embedded solutions
 - 🌐 Multilingual: English · Kannada · Hindi · Telugu · Tamil
 - 📍 Hanur, Chamarajanagar, Karnataka, India
