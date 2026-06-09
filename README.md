@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-> To begin my career as an Electronics and Communication Engineer in a growth-oriented organization where I can apply my knowledge of **VLSI design**, **embedded systems**, and **communication technologies** — while continuously learning and contributing to innovative solutions.
+> BE graduate in Electronics and Communication Engineering with specialization in **VLSI**, **Embedded Systems**, and **IoT**. Proficient in **Arduino**, **Raspberry Pi**, embedded protocols (**I2C · SPI · UART**), and **Cadence tools**. Eager to contribute technical expertise to a forward-thinking organization focused on product development or system design.
 
 - 🎓 **BE in Electronics & Communication Engineering** — Coorg Institute of Technology, Ponnampet (CGPA: **8.2**)
 - 🛠️ Passionate about **hardware-software integration**, robotics, and real-time embedded solutions
