@@ -3,7 +3,7 @@
 <p align="center">
   <font size="7"><b>Electronics & Communication Engineer</b></font><br>
   <b>VLSI Design | Embedded Systems | IoT | Arduino | Raspberry Pi | C++ | Assembly Language | MATLAB | Cadence Tools</b><br>
-  Coorg Institute of Technology, Ponnampet | Karnataka, India
+  Hanur, Chamarajanagar, Karnataka – 571439
 </p>
 
 <p align="center">
