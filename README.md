@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-> Aspiring Electronics and Communication Engineering graduate with hands-on experience in Embedded Systems, IoT, Robotics, and VLSI Design gained through academic projects and an industry internship at AiROBOSOFT. Proficient in C++, MATLAB, Cadence Virtuoso, and hardware interfacing protocols including I2C, SPI, UART, and MQTT. Experienced in developing real-time embedded applications using Arduino and Raspberry Pi platforms, with a strong foundation in digital electronics and system design. Seeking an entry-level engineering position to apply technical expertise, problem-solving skills, and a passion for innovation in developing advanced electronic solutions.
+> Aspiring **Electronics and Communication Engineering** graduate with hands-on experience in **Embedded Systems, IoT, Robotics, and VLSI Design** through academic projects and an industry internship at **AiROBOSOFT**. Proficient in **C++, MATLAB, Cadence Virtuoso**, and communication protocols including **I2C, SPI, UART, and MQTT**. Experienced in developing real-time embedded applications using **Arduino** and **Raspberry Pi**, with a strong foundation in **digital electronics** and **system design**. Passionate about leveraging technology to build innovative solutions and eager to contribute to the development of next-generation electronic systems.
 
 - 🎓 **BE in Electronics & Communication Engineering** — Coorg Institute of Technology, Ponnampet (CGPA: **8.2**)
 - 🛠️ Passionate about **hardware-software integration**, robotics, and real-time embedded solutions
